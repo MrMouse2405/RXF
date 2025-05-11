@@ -1,0 +1,11 @@
+# Project place file
+/RXF.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Rojo / LuauLSP / Wally
+/Packages
+sourcemap.json
+wally.lock

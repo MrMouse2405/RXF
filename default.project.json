@@ -1,0 +1,28 @@
+{
+  "name": "RXF",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedFirst": {
+      "rxf": {
+        "$path" : "rxf/repfirst"
+      }
+    },
+
+
+    "ReplicatedStorage": {
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+
+    "ServerScriptService": {
+      "rxf": {
+        "$path": "rxf/server"
+      },
+      "src": {
+        "$path": "src/"
+      }
+    }
+  }
+}
